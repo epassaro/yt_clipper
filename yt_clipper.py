@@ -56,7 +56,7 @@ if __name__ == "__main__":
         "-d",
         "--device",
         help="device for VA-API hardware acceleration (experimental), for example: \
-                '/dev/dri/render128D'",
+                '/dev/dri/renderD128'",
         type=str,
         default="",
     )

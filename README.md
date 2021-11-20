@@ -43,7 +43,7 @@ positional arguments:
 
 optional arguments:
   -h, --help                      show this help message and exit
-  -d DEVICE, --device DEVICE      VA-API hardware acceleration device (experimental), for example: '/dev/dri/render128D'
+  -d DEVICE, --device DEVICE      VA-API hardware acceleration device (experimental), for example: '/dev/dri/renderD128'
   -u VALUE, --quality VALUE       from 0 to 51, default is 23 (lower is better)
   -x {fast,medium,slow}, --compression {fast,medium,slow}
                                   encoder preset (cpu only)
